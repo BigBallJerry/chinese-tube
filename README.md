@@ -1,4 +1,4 @@
-Next.js starter kit with tailwindcss, eslint, typescript.
+# Next.js starter kit with tailwindcss, eslint, typescript.
 
 ## Getting Started
 
